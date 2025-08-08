@@ -1,0 +1,41 @@
+#Build folders
+**/obj/
+**/bin/
+# Publish artifacts
+**/publish/
+# Package folders
+**/packages/
+#Credentials
+**/[aA]ppsettings.json
+**/[aA]ppsettings.*.json
+*.pfx
+*.key
+*.cer
+#Editor related files
+*.user
+*.suo
+.vscode/
+*.userosscache
+*.sln.docstates
+.idea/
+*.tlog
+*.VC.db
+*.VC.VC.opendb
+#Temp files
+*.log
+*.swp
+*.tmp
+*~
+*.[oa]
+*.bak
+*.orig
+*.rej
+#Test / coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+#Crash dumps
+*.dmp
+#Screenshots
+Schermata*.png
