@@ -1,0 +1,1 @@
+In this folder there are tests for ASP.NET core first release (1.0.0)
